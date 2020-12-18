@@ -1,4 +1,4 @@
-/* .button {
+ .button {
 border: none;
 color: black;
 padding: 15px 32px;
@@ -154,7 +154,7 @@ li{
   font-size: 50px;
   text-shadow:  3px 3px 5px #011;
   font-family: Helvetica;
-} */
+} 
 
 
 @media (max-width: 800px) {
